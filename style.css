@@ -1,0 +1,12 @@
+body {
+	background-color: #1f4646;
+	color: #1f4646;
+}
+
+.cover-container {
+	max-width: 42em;
+}
+
+.shadow-glow {
+	box-shadow: 0 0 60px 30px #00000060;
+}
